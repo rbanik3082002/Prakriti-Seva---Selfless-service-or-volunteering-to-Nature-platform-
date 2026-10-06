@@ -1,0 +1,2 @@
+# Prakriti-Seva---Selfless-service-or-volunteering-to-Nature-platform-
+An android app where users are allowed to post their services and contributions pictures in the field of tree plantation, animal feeding and sewage or roadways cleaning and they will be awarded coins for each uploads which the users can redeem to get gifts. This app promotes social services for  a good cause by every individuals of a society.
